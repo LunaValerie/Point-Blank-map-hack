@@ -1,0 +1,17 @@
+NumVerıces > knife : 0x386
+NumVerıces > C4 : 0x1453
+NumVerıces > No Smoke : 4096
+// map hack
+NumVerıces > Map : 15843 Map 2 : 13624
+NumVerıces > Cöpleri Temizle : 76 - Yapıldı
+NumVerıces > Camlar : 24
+// gui
+NumVerıces > Gui : 81920 Gui 2 :8192
+// sky
+NumVerıces > Sky : 0x20 - Yapıldı
+// demir kapı
+primCount > Demir kapı : 400 // yapıldı
+// Pencere
+primCount > Pencereler : 672 // yapıldı
+// raflar yok
+primCount > Raflar : 2893 // yapıldı
